@@ -1,5 +1,5 @@
 
-INSTALL 
+<b>INSTALL</b> 
 npm install -g sass   
 
 TO CONVERT YO SASS
